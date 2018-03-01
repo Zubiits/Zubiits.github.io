@@ -50,10 +50,12 @@ body {
 	background-color:red;
 	border: 1px solid black;
 	width: 390px;
+	float: left;
 }
 
 #right {
 	background-color:red;
 	border: 1px solid black;
 	width: 630px;
+	float: right;
 }

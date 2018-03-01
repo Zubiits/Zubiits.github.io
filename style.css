@@ -48,13 +48,13 @@ body {
 
 #left {
 	background-color:red;
-	width: 390px;
+	width: 800px;
 	float: left;
 }
 
 #right {
 	background-color:red;
-	width: 628px;
+	width: 220px;
 	float: right;
 }
 
@@ -63,4 +63,5 @@ body {
 	height: 68px;
 	background-color:green;
 	overflow:hidden;
+	margin: 0 auto;
 }

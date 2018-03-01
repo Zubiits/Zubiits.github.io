@@ -59,3 +59,9 @@ body {
 	width: 630px;
 	float: right;
 }
+
+#footer { 
+	width: 1020px;
+	height: 68px;
+	background-color:green
+}

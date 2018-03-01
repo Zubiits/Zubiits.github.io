@@ -33,3 +33,8 @@ body {
 #navbar ul li a {
 	 text-decoration: none;
 }
+
+#navbar {
+		width: 1020px;
+		margin: 0 auto;
+}

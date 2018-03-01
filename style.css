@@ -47,5 +47,12 @@ body {
 
 #left {
 	background-color:red;
-	border: 1px solid black; 
+	border: 1px solid black;
+	width: 390px;
+}
+
+#right {
+	background-color:red;
+	border: 1px solid black;
+	width: 630px;
 }

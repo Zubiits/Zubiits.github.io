@@ -3,3 +3,12 @@ body {
 	padding: 0px;
 	background-color:black
 }
+
+#navigation {
+	 margin: 0px;
+	 padding: 0px;
+	 height: 36px;
+	 width: 100%;
+	 background-color: #000;
+}
+

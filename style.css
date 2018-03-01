@@ -48,14 +48,12 @@ body {
 
 #left {
 	background-color:red;
-	border: 1px solid black;
 	width: 390px;
 	float: left;
 }
 
 #right {
 	background-color:red;
-	border: 1px solid black;
 	width: 628px;
 	float: right;
 }

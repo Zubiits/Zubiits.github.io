@@ -17,9 +17,14 @@ body {
 	margin: 0px;
 	padding: 0px;
 	list-style:none;
+	width: 1020px;
 
 }
 
+#nav-links {
+	width: 1020px;
+	margin: 0 auto;
+}
 #navbar ul li {
 	display: inline;
 	

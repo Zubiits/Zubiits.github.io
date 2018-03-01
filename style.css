@@ -43,6 +43,7 @@ body {
 #content {
 	width: 1020px;
 	background-color:blue;
+	margin: 0 auto;
 }
 
 #left {

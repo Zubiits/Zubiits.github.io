@@ -61,14 +61,14 @@ body {
 }
 
 #left {
-	background-color:red;
+	background-color:blue;
 	width: 800px;
 	float: left;
 }
 
 #right {
 	background-color:red;
-	width: 220px;
+	width: 700px;
 	float: right;
 }
 

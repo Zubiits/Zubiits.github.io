@@ -78,9 +78,10 @@ body {
 
 #right {
 	background-color:red;
-	width: 400px;
+	width: 416px;
 	float: right;
-	border: 1px solid yellow
+	border: 1px solid yellow;
+	min-height: 216px;
 }
 
 #middle {

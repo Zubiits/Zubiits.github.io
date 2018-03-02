@@ -89,3 +89,22 @@ body {
 	overflow:hidden;
 	margin: 0 auto;
 }
+
+#news {
+	padding: 8px;
+	min-height: 200px;
+	background-color: white
+}
+
+.jaunumuhead {
+	width: 100%;
+	height: 26px;
+	text-decoration: underline;
+	border: 1px solid yellow;
+	text-align:center
+	}
+
+.jaunumuinfo {
+		width: 100%;
+		height: 52px;
+}

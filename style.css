@@ -9,7 +9,7 @@ body {
 	 margin: 0px;
 	 padding: 0px;
 	 height: 36px;
-	 width: 100%;
+	 width: 1020px;
 	 box-shadow: inset 0 -10px 10px -10px #000000;
 	 -moz-box-shadow: inset 0 -10px 10px -10px #000000;
 	 background-color: #53B4CF;
@@ -68,7 +68,7 @@ body {
 
 #right {
 	background-color:red;
-	width: 210px;
+	width: 219px;
 	float: right;
 }
 

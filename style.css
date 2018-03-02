@@ -76,9 +76,15 @@ body {
 	border: 1px solid yellow
 }
 
+#middle {
+		background-color:red;
+		width: 1020px;
+		border: 1px solid yellow
+}
+
 #footer { 
 	width: 1020px;
-	height: 68px;
+	height: 70px;
 	background-color:green;
 	overflow:hidden;
 	margin: 0 auto;
